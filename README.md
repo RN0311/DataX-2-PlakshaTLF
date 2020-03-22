@@ -7,8 +7,8 @@ As a core task of natural language processing and information retrieval, automat
 ### This project was done under the guidance of Dr. Ravi Kothari, former IBM Chief Scientist during DataX2 course in Plaksha TLF.
 
 ### Team Members:
-- Karthika
-- Mahathi
-- Rashmi
-- Shikhar
-- Shubham
+- Karthika Kamath
+- Mahathi Parvatham
+- Rashmi Nagpal
+- Shikhar Seth
+- Shubham Goel
